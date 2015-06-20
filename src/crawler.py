@@ -1,4 +1,5 @@
 __author__ = 'Alan'
+# based on common implementation
 
 import re
 import urllib2
