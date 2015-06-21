@@ -39,8 +39,8 @@ class Login(object):
 
 if __name__ == '__main__':
     user_login = Login()
-    username = 'hyattgra@126.com'
-    password = '1010406796'
+    username = 'XXX@XXX.com'
+    password = 'XXX'
     domain = login_domain
     user_login.set_login_info(username, password, domain)
     user_login.login()
